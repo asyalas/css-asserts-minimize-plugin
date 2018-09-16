@@ -1,0 +1,30 @@
+{
+  "name": "css-asserts-minimize-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin to merge media query and minimize CSS assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyalas/css-asserts-minimize-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "css",
+    "media-query",
+    "cssnano",
+    "minimize"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyalas/css-asserts-minimize-plugin/issues"
+  },
+  "homepage": "https://github.com/asyalas/css-asserts-minimize-plugin#readme",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^6.0.23"
+  }
+}
